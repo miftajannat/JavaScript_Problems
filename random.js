@@ -16,3 +16,13 @@ for (var i = 0; i < 10; i++) {
     var output = Math.round(randomNum);
     console.log(output);
 }
+1
+3
+7
+3
+7
+8
+6
+3
+4
+1
